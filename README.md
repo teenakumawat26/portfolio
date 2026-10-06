@@ -16,6 +16,4 @@ This is my personal portfolio showcasing my projects.
 ## 🛠️ Tech Stack
 HTML, CSS
 
-## 📫 Contact
-Jaipur, India
-GitHub:teenakumawat26
+
