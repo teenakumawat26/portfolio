@@ -14,7 +14,7 @@ This is my personal portfolio showcasing my projects.
 3.  **Calculator App** - Modern Calculator
 
 ## 🛠️ Tech Stack
-HTML, CSS, JavaScript, Git & GitHub
+HTML, CSS
 
 ## 📫 Contact
 Jaipur, India
